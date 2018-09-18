@@ -1,0 +1,6 @@
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\obj\Debug\LinkedListExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\bin\Debug\LinkedListExercise.exe.config
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\bin\Debug\LinkedListExercise.exe
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\bin\Debug\LinkedListExercise.pdb
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\obj\Debug\LinkedListExercise.exe
+C:\Users\Sam\source\repos\LinkedListExercise\LinkedListExercise\obj\Debug\LinkedListExercise.pdb
